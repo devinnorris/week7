@@ -1,0 +1,166 @@
+header {
+    text-align: center
+
+}
+ .about p {
+     
+ }
+p img.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+
+.A101 {
+    padding-bottom: 50px;
+    margin-bottom: 90px;
+}
+
+.A101 p {
+    float: left;
+    width: 30%;
+
+}
+
+img.class1 {
+    width: 70%;
+
+}
+ 
+p.pic {
+    float: right;
+
+}
+
+
+
+
+
+
+.A102 {
+    padding-bottom: 50px;
+    margin-bottom: 90px;
+}
+
+.A102 p {
+    float: left;
+    width: 30%;
+
+}
+
+img.class2 {
+    width: 70%;
+
+}
+ 
+p.pic {
+    float: right;
+
+}
+
+
+
+
+.A103 {
+    padding-bottom: 50px;
+    margin-bottom: 90px;
+}
+
+.A103 p {
+    float: left;
+    width: 30%;
+
+}
+
+img.lesson1 {
+    height: 400px;
+    width: 300px;
+    width: 70%;
+
+}
+ 
+p.pic {
+    float: right;
+
+}
+
+
+
+
+/*page 2*/
+
+section.instruct1 {
+    width: 45%;
+    height: 30%;
+    float: left;
+    padding: 20px;
+    
+}
+section.instruct2 {
+    width: 45%;
+    height: 30%;
+    padding: 20px;
+    float:left;
+    
+}
+section.instruct3 {
+    width: 45%;
+    height: 30%;
+    padding: 20px;
+    clear: both;
+    float: left
+    
+}
+
+section.instruct4 {
+    width: 45%;
+    height: 30%;
+    padding: 20px;
+    float: left;
+  
+    
+}
+ 
+img.derek {
+     width: 100%
+         
+ }
+
+img.amy {
+    
+    width: 100%;
+    
+}
+
+img.nathan {
+    
+    width: 100%;
+    
+}
+
+img.doona {
+    width: 100%
+
+}
+
+footer.pg2 {
+    clear: both;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer.pg2 {
+    float: clear;
+}
